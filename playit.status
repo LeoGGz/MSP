@@ -1,0 +1,424 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
+MSG: Failed to setup tunnel client
+Error: RequestError(TooManyRequests)
+[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338520995 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.22): 1725338524082 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338539194 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338554294 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338569404 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338584500 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338599602 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.22): 1725338602663 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338617750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338632842 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338647951 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338663056 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338678156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.22): 1725338681210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338696300 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338711403 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338726517 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.22): 1725338729581 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338744673 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338759767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.22): 1725338762833 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338777928 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338793017 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.22): 1725338796075 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338811165 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338826266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.22): 1725338829333 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.22): 1725338832389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338847477 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338862599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.22): 1725338865667 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338880759 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.22): 1725338883819 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338898918 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338914018 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338929120 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.22): 1725338932184 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.22): 1725338935254 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338950347 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.22): 1725338953402 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338968490 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725338983579 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.22): 1725338986645 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725339001735 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.22): 1725339004797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725339019898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.22): 1725339022977 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725339038078 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.22): 1725339041139 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725339056229 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.22): 1725339059290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725339074376 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
