@@ -1,88 +1,40 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.22): 1725500165168 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.22): 1725514601604 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.22): 1725500168238 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1725514604658 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.22): 1725500171314 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1725514607712 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.22): 1725500174453 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1725514610769 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.22): 1725500177510 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1725514613830 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.22): 1725500180575 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1725514616936 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.22): 1725500183631 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.22): 1725500186698 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.22): 1725500189760 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.22): 1725500192818 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.22): 1725500195876 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.22): 1725500198934 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.22): 1725500201995 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.22): 1725500205060 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-protein-adobe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-code-ton.gl.at.ply.gg:2399 => 127.0.0.1:2399 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.22): 1725500208124 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1725514619997 tunnel running, 2 tunnels registered
 
 
 TUNNELS
