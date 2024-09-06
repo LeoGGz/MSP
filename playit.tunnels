@@ -54,35 +54,35 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "code-ton.gl.at.ply.gg",
+          "assigned_domain": "perfect-sas.gl.at.ply.gg",
           "assigned_srv": null,
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "15793f5f-a929-498a-8c1d-1f6c33c3552f",
+          "id": "50a990fb-dcfa-4a07-b787-2d81f98fc453",
           "ip_hostname": "22.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 2400,
-          "port_start": 2399,
+          "port_end": 2590,
+          "port_start": 2589,
           "region": "global",
           "static_ip4": "147.185.221.22",
           "tunnel_ip": "2602:fbaf:0:1::16"
         },
         "status": "allocated"
       },
-      "created_at": "2024-09-03T01:51:44.424406Z",
+      "created_at": "2024-09-06T03:56:55.520604Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "2694a64f-563d-4942-8517-72e064918cdb",
+      "id": "a691bb81-30dc-43a5-9e26-9542618bbae2",
       "name": "unnamed",
       "origin": {
         "data": {
           "agent_id": "d9ba4ddc-4af0-44e5-87f0-7136680f24ca",
           "agent_name": "MILANESAMSP",
           "local_ip": "127.0.0.1",
-          "local_port": 2399
+          "local_port": 2589
         },
         "type": "agent"
       },
